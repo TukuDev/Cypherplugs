@@ -1,0 +1,10 @@
+.name-input {
+   width: 300px;
+   margin: 12px 0px;
+}
+
+.next-button {
+   position: relative;
+   float: right;
+   bottom: 0;
+}
